@@ -1,0 +1,34 @@
+# Mac OSX
+###########
+.DS_Store*
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+# Windows
+###########
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Node.js/NPM
+###########
+node_modules
+npm-debug.log
+coverage
+
+# General
+###########
+.dropbox
+*.ini
+*.log
+*.cache
+backup/
+cache/
+.idea/
+
+# This app
+###########
+.esm-cache
+.next
