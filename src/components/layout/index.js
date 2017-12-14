@@ -60,10 +60,6 @@ injectGlobal`
     font-size: 62.5%;
   }
 
-  html, body {
-    height: 100%;
-  }
-
   body {
     font-family: Lato, sans-serif;
     font-size: 130%;
